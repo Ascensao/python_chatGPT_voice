@@ -7,6 +7,13 @@ Whether you use this project, have learned something from it, or just like it, p
 
 <a href="https://www.buymeacoffee.com/ascensao1" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
+## Youtube
+
+Check on Youtube: https://www.youtube.com/watch?v=DFnpA9Q7yYE
+
+<img src="https://bernardoascensao.com/outsourcing/youtube.png" alt="See on Youtube" width="560" height="315" border="10"/>
+
+
 ## Dependencies
 
 - Python 3.7+
